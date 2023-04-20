@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EFrelationsANDmigrations.props" />
+</Project>
